@@ -1,6 +1,6 @@
-# ISA Assessment - Weather App
+# Weather App
 
-This is a solution to the Weather App on ISA assessment.
+This is a solution to the Weather App .
 
 ## Table of contents
 
